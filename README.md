@@ -26,7 +26,7 @@ A real-time web application that helps **school students find their ideal career
 
 ## 📦 Run Locally
 
-### 1. Clone the project
+###  Clone the project & Run frontend and backend
 
 ```bash
 git clone https://github.com/officiallyitsanil/ai-career-suggester.git
